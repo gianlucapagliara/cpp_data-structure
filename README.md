@@ -1,2 +1,2 @@
 # cpp_data-structure
-C++ Data Structures
+My data structures implementation in C++.
